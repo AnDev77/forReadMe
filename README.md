@@ -14,7 +14,9 @@ this is an H1
 * red
   + green
   + blue
-  
- 
-  print("hello")
-  a += i for i in range(10)
+
+
+```python
+print("hello")
+a += i for i in range(10)
+```
